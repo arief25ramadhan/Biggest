@@ -1,2 +1,3 @@
-This program pickc the largest of three numbers
+#Description
+This program picks the largest of three numbers
 
