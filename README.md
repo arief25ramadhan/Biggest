@@ -1,2 +1,2 @@
-# Hello2
-Hello2
+This program pickc the largest of three numbers
+
